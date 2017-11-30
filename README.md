@@ -6,4 +6,4 @@ linux ncurses
 ### hello world
 ![hello](img/hello.png)
 ### attr 注释加粗效果
-![attr](img/arrt.png)   
+![attr](img/attr.png)   
